@@ -69,7 +69,7 @@
   <img src="https://a4re.github.io/flowfunds-support/icon.png" alt="Flow Funds icon" class="icon" onerror="this.style.display='none'">
   <h1>Поддержка Flow Funds</h1>
   <p>Если у вас возникли вопросы или предложения по приложению <strong>Flow Funds</strong>, свяжитесь с нами:</p>
-  <p><a href="mailto:support@flowfunds.app">support@flowfunds.app</a></p>
+  <p><a href="mailto:aakoval01@gmail.com">support@flowfunds.app</a></p>
   <p>Мы стараемся отвечать в течение 24 часов.</p>
   <footer>© 2025 Flow Funds. Все права защищены.</footer>
 </body>
